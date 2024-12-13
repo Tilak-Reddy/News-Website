@@ -15,12 +15,12 @@ var newsDataArr = [];
 
 // apis 
 const API_KEY = "bb8ca625cbb9472f92ffc37368189259";
-const HEADLINES_NEWS = "https://newsapi.org/v2/top-headlines?country=in&apiKey=";
-const GENERAL_NEWS = "https://newsapi.org/v2/top-headlines?country=in&category=general&apiKey=";
-const BUSINESS_NEWS = "https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=";
-const SPORTS_NEWS = "https://newsapi.org/v2/top-headlines?country=in&category=sports&apiKey=";
-const ENTERTAINMENT_NEWS = "https://newsapi.org/v2/top-headlines?country=in&category=entertainment&apiKey=";
-const TECHNOLOGY_NEWS = "https://newsapi.org/v2/top-headlines?country=in&category=technology&pageSize=8&apiKey=";
+const HEADLINES_NEWS = "https://newsapi.org/v2/top-headlines?country=in&apiKey=bb8ca625cbb9472f92ffc37368189259";
+const GENERAL_NEWS = "https://newsapi.org/v2/top-headlines?country=in&category=general&apiKey=bb8ca625cbb9472f92ffc37368189259";
+const BUSINESS_NEWS = "https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=bb8ca625cbb9472f92ffc37368189259";
+const SPORTS_NEWS = "https://newsapi.org/v2/top-headlines?country=in&category=sports&apiKey=bb8ca625cbb9472f92ffc37368189259";
+const ENTERTAINMENT_NEWS = "https://newsapi.org/v2/top-headlines?country=in&category=entertainment&apiKey=bb8ca625cbb9472f92ffc37368189259";
+const TECHNOLOGY_NEWS = "https://newsapi.org/v2/top-headlines?country=in&category=technology&pageSize=8&apiKey=bb8ca625cbb9472f92ffc37368189259";
 const SEARCH_NEWS = "https://newsapi.org/v2/everything?q=";
 
 window.onload = function() {
